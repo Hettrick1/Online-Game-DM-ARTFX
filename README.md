@@ -11,8 +11,7 @@
 - ⚠️ **Trigger Warning** : Une alerte s'affiche demandant aux joueurs de quitter la zone lors du spawn d'une maison.
 - 🪓 **Harvesting Feedback** : Lorsqu'un joueur coupe un arbre ou un rocher, tous les joueurs voient :
   - Une **progress bar** 🕒
-  - Le **pseudo du joueur** 🏷️
-  - Une **couleur dynamique** si un joueur va au **puits** 🚰
+- ⛲ **Puit** : Le puit sert à modifier le pseudo et sa couleur
 
 ## 💾 Système de sauvegarde
 - 📦 **Données sauvegardées entre deux sessions** :
